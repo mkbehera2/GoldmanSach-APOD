@@ -8,26 +8,11 @@ GoldmanSach-APOD
 
 # APP SCREEN SHOTS
 
-![Screenshot_20211219-201645_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146682981-215f9659-f579-4e4b-9789-7f025bb6563a.jpg)
+<img width="961" alt="Screenshot 2021-12-19 at 10 24 06 PM" src="https://user-images.githubusercontent.com/44498480/146683527-98e729d4-a843-4f02-8470-b156b1bc8079.png">
 
-![Screenshot_20211219-201622_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146682999-79fa4df3-8cba-4b0d-869d-edd357e7ce88.jpg)
+<img width="958" alt="Screenshot 2021-12-19 at 10 25 07 PM" src="https://user-images.githubusercontent.com/44498480/146683557-c3e3ee08-e766-4be9-8322-451005ef038b.png">
 
-![Screenshot_20211219-201551_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683010-323717fb-6e4e-44c5-9d28-c4e2a4d926f2.jpg)
-
-![Screenshot_20211219-201532_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683017-a7cecbfa-4737-4dcf-8006-ae716feeecea.jpg)
-
-![Screenshot_20211219-201541_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683023-e5ac2410-ad67-4971-8fd0-4e948c91de01.jpg)
-
-![Screenshot_20211219-201637_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683035-846e5af3-c505-4d6c-b894-ef4c7f4e5d1f.jpg)
-
-![Screenshot_20211219-201627_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683044-54e4cb90-9799-426d-922d-aa044120fada.jpg)
-
-![Screenshot_20211219-201611_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683052-c069a807-f087-4c47-b0af-0b5cecde2dab.jpg)
-
-![Screenshot_20211219-201611_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683068-77331ecf-6613-404e-85fa-bb53c53d2909.jpg)
-
-![Screenshot_20211219-201708_GoldmanSachs Assignment](https://user-images.githubusercontent.com/44498480/146683076-6fa6b8ba-f7b7-422b-ae5e-1da1e951adc4.jpg)
-
+<img width="962" alt="Screenshot 2021-12-19 at 10 25 16 PM" src="https://user-images.githubusercontent.com/44498480/146683576-a617e4f7-f708-47af-9f61-cb5dfbfeb2a0.png">
 
 
 
