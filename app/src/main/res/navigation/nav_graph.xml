@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.goldmansachs.assignment.view.main.MainFragment"
+        android:label="@string/mainFragmentTitle"
+        tools:layout="@layout/main_fragment">
+        <action
+            android:id="@+id/action_main_to_detail"
+            app:destination="@id/nav_detail"
+            app:popUpTo="@id/nav_main" />
+        <action
+            android:id="@+id/action_nav_main_to_favoriteFragment"
+            app:destination="@id/favoriteFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_detail"
+        android:name="com.goldmansachs.assignment.view.detail.DetailFragment"
+        android:label="@string/detailFragmentTitle"
+        tools:layout="@layout/detail_fragment">
+        <argument
+            android:name="detailEntity"
+            app:argType="com.goldmansachs.assignment.model.apiservice.ApodEntity" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.goldmansachs.assignment.view.favorite.FavoriteFragment"
+        android:label="@string/favoriteFragmentTitle"
+        tools:layout="@layout/fragment_favorite" >
+        <action
+            android:id="@+id/action_favoriteFragment_to_nav_detail2"
+            app:destination="@id/nav_detail" />
+    </fragment>
+
+</navigation>

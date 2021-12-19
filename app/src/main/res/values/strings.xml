@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GoldmanSachs Assignment</string>
+
+    <!-- List UI -->
+    <string name="empty_list">No pictures found!\nPull to refresh</string>
+
+    <!-- Main Fragment -->
+    <string name="mainFragmentTitle">APOD</string>
+    <string name="detailFragmentTitle">APOD Details</string>
+    <string name="favoriteFragmentTitle">Favorite</string>
+    <string name="mainErrorEvent">Error occurred: %s</string>
+    <string name="mainErrorUnknown">Unknown</string>
+
+    <!-- Detail Fragment -->
+    <string name="empty_fav_list">Empty fav list!</string>
+
+    <!-- Menu -->
+    <string name="menuRefresh">Refresh</string>
+    <string name="menuThemeNight">Night Mode</string>
+    <string name="menuThemeDay">Day Mode</string>
+    <string name="menuFavorite">Favorite</string>
+
+    <string name="menuAddFavorite">Add To Favorite</string>
+    <string name="menuRemoveFavorite">Remove From Favorite</string>
+
+</resources>
