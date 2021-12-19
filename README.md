@@ -3,7 +3,7 @@ GoldmanSach-APOD
 
 # APP VIDEO CAPTURED
 
-
+https://user-images.githubusercontent.com/44498480/146683781-1d2afe01-c4ba-4991-8d18-53d1bab8b218.mp4
 
 
 # APP SCREEN SHOTS
